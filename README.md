@@ -1,3 +1,4 @@
 # Simple-Navigation-Drawer
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68849516/214258339-ae9b8ad8-b3e0-4ae9-912b-9bef5e2b9df9.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68849516/214259232-3766e85a-67b9-464f-9a92-6df8df9698ac.gif)
+
