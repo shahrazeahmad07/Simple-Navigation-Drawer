@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Navigation Drawer</string>
+    <string name="nav_header">Nav Header</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_implementation">Navigation Drawer Implementation</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
